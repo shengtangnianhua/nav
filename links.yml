@@ -11,21 +11,21 @@ keywords: 网址导航,网站导航,上网导航,网址大全,常用网站,推�
 # 网址导航页面描述（可选）
 description: 网址导航静态页面通用模板。
 # 网址导航页面 URL（可选）
-# url: https://zh3389.github.io/nav/
+# url: https://shengtangnianhua.github.io/nav/
 # Favicon（可选）
 shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
 og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 # 主页 URL
-# home_url: https://zh3389.github.io/nav/
+# home_url: https://shengtangnianhua.github.io/nav/
 # GitHub 链接（可选）
-# github_url: https://zh3389.github.io/nav/
+# github_url: https://shengtangnianhua.github.io/nav/
 # 网站 about 链接（可选）
-# about_url: https://zh3389.github.io/nav/
+# about_url: https://shengtangnianhua.github.io/nav/
 # 提交链接的 URL
-link_submission_url: https://github.com/zh3389/nav/blob/main/links.yml
+link_submission_url: https://github.com/shengtangnianhua/nav/blob/main/links.yml
 # 网站友情链接（可选）
-# friendship_links_url: https://zh3389.github.io/links/
+# friendship_links_url: https://shengtangnianhua.github.io/links/
 # Google Analytics Code（可选）
 # ga_tracking_code_id: G-ABCDEFG
 
@@ -517,5 +517,5 @@ categories:
     links:
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">待添加</text></svg>
-        url: https://github.com/zh3389/nav/issues
+        url: https://github.com/shengtangnianhua/nav/issues
         description: 快来提交你的网站吧
