@@ -33,6 +33,10 @@ link_submission_url: https://github.com/shengtangnianhua/nav/blob/main/links.yml
 ## 导航栏
 ################
 navigation_urls:
+  - title: 个人腾讯云服务器管理
+    url: https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D4&rid=4&id=lhins-37v8pyg6
+  - title: 个人博客halo管理
+    url: http://124.221.157.135:8090/console/dashboard
   - title: AI在线商店
     url: https://openxlab.org.cn/apps
   - title: ChatGPT
