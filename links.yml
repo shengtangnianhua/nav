@@ -59,6 +59,21 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories: 
+  - category: 个人服务器管理
+    icon: linecons-doc
+    links:
+      - title: 个人腾讯云服务器管理
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
+        url: https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D4&rid=4&id=lhins-37v8pyg6
+        description: 个人腾讯云服务器管理
+      - title: 个人博客halo管理
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
+        url: http://124.221.157.135:8090/console/dashboard
+        description: 个人博客halo管理
+      - title: 个人博客halo首页访问
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
+        url: http://124.221.157.135:8090
+        description: 个人博客halo首页访问
   - category: 综合导航网站
     icon: linecons-doc
     links:
