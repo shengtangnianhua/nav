@@ -74,6 +74,11 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
         url: http://124.221.157.135:8090
         description: 个人博客halo首页访问
+      - title: 135-Alist
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="2em" x="0.6em" font-size="30">综合</text></svg>
+        url: http://124.221.157.135:5244/
+        description: 135-Alist
+        
   - category: 综合导航网站
     icon: linecons-doc
     links:
